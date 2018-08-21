@@ -1,6 +1,6 @@
 <div class="jumbotron">
         <h1>JCC 2019</h1>
-        <h2>the 10th International Workshop on Joint Cloud Computing</h1>
+        <h2>the 10th International Workshop on Joint Cloud Computing</h2>
         <br>
         <h4>To be decided</h4>
         <p>colocated with <a
