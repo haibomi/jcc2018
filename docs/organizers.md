@@ -14,8 +14,8 @@
 
 **Chairs:**
 
-* [Yongqiang Lyu](mailto:luyq@tsinghua.edu.cn), Tsinghua University, China
-* [Donggang Cao](mailto:caodg@pku.edu.cn), Peking University, China
+* [Renyu Yang](mailto:r.yang1@leeds.ac.uk), University of Leeds, UK
+* [Haibo Mi](mailto:caodg@pku.edu.cn), National University of Defense Technology, China
 
 **Members:**
 
